@@ -1,5 +1,7 @@
 body {
   text-align: center;
+  background-color: #ffd9da;
+  margin: 50px;
 }
 
 img {
@@ -10,7 +12,7 @@ img {
 
 h1 {
   font-family: "Oswald", sans-serif;
-  color: #ff0000;
+  color: #f02d3a;
 }
 
 p {
