@@ -4,6 +4,14 @@ h1 {
   color: rgb(71, 62, 62);
 }
 
+/* #description {
+  margin-bottom: 36px;
+} */
+
+header p {
+  margin-bottom: 36px;
+}
+
 a {
   padding: 12px 48px;
   background-color: rgb(167, 1, 78);
@@ -30,4 +38,14 @@ li {
   margin: 32px;
   background-color: #e78f8e;
   border-radius: 6px;
+}
+
+h2 {
+  color: rgb(90, 17, 19);
+  font-family: "Oswald", sans-serif;
+}
+
+main p {
+  margin: 12px;
+  color: #66101f;
 }
