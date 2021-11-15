@@ -6,16 +6,15 @@ body {
 
 h1 {
   font-family: "Oswald", sans-serif;
-  color: rgb(49, 45, 44);
 }
 
 p {
   font-family: "Fira Sans", sans-serif;
   color: #534b4b;
+  font-size: 24px;
 }
 
 a {
-  color: rgb(167, 1, 78);
   text-decoration: none;
   font-family: "Fira Sans", sans-serif;
 }

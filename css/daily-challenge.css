@@ -8,6 +8,15 @@ main {
   box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.3);
 }
 
+h1 {
+  font-size: 30px;
+  color: rgb(49, 45, 44);
+}
+
+a {
+  color: rgb(167, 1, 78);
+}
+
 img {
   width: 200px;
   height: 200px;
