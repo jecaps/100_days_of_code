@@ -3,13 +3,13 @@ header {
 }
 
 h1 {
-  margin: 12px 0;
+  margin: 0;
   font-size: 48px;
   color: rgb(71, 62, 62);
 }
 
 #description {
-  margin-bottom: 0px;
+  margin-bottom: 12px 0;
 }
 
 /* header p {
@@ -24,7 +24,7 @@ a {
   border-radius: 4px;
   font-size: 24px;
   display: inline-block;
-  margin: 12px 0;
+  margin: 0;
 }
 
 a:hover {
@@ -44,6 +44,7 @@ li {
   margin: 32px;
   background-color: #e78f8e;
   border-radius: 6px;
+  box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.3);
 }
 
 h2 {
